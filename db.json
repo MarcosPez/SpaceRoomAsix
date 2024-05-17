@@ -1,0 +1,202 @@
+{
+  "start": {
+    "titol": "Escape_Room:_Metro_de_Barcelona",
+    "comença_joc": "GET /prova1"
+  },
+  "prova1": [{
+      "id": " Cita Prova 1",
+      "link_cita_prova1": "http://docs.google.com/document/d/1nZNWoVy4ris8wBuW5e2qa7dpitKShWv4EncWce47JM0/edit?usp=sharing"
+    },
+    {
+      "id": "mapa",
+      "link_mapa_prova1": ["https://www.mapametrobarcelona.com/mapas-metro/mapa-metro-barcelona-2024.png"]
+    },
+    {
+      "id": "Portes",
+      "porta1": "2 + 3",
+      "porta2": "3^2-5",
+      "porta3": "5-4"
+    },
+    {
+      "id": "Codis Portes"
+    },
+    {
+      "id":"Anar Prova 2",
+      "content": "GET /prova2"
+    }
+  ],
+  
+  "prova2": {
+    "link_cita_prova2": "https://docs.google.com/document/d/1tVUm5al8MZDsU6ijnicU2ey2BuAsaBouiYGFDT1Rinc/edit?usp=sharing",
+    "qr1": "https://drive.google.com/file/d/1rYKFvoCOtJv3hz8agkOYHfzIo6vQaiX5/view?usp=sharing",
+    "qr2": "https://drive.google.com/file/d/1MC0B_mjOfGRw38hd5xFDOyNsYjVEFoYB/view?usp=sharing",
+    "anar_prova_3": "GET /prova3"
+  },
+  "prova3": [
+    {
+      "id": " Cita Prova 3",
+      "link_cita_prova3": "http://docs.google.com/document/d/1nZNWoVy4ris8wBuW5e2qa7dpitKShWv4EncWce47JM0/edit?usp=sharing"
+    },
+    { "id" : "mapas",
+      "content": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mapa_del_Metro_de_Barcelona.jpg/1200px-Mapa_del_Metro_de_Barcelona.jpg",
+      "https://mapabarcelona360.es/website/var/tmp/image-thumbnails/0/656/thumb__map/mapa-rodalies-barcelona.pjpeg",
+      "https://barcelonando.com/es/wp-content/uploads/2014/01/FGC-Valles-map.jpg",
+      "https://barcelonando.com/es/wp-content/uploads/2014/01/ linea-llobregat.jpg",
+      "https://www.redtransporte.com/img/transporte/barcelona/tranvia-barcelona/plano-tranvia-barcelona.jpg",
+      "https://www.redtransporte.com/img/transporte/barcelona/autobuses-barcelona-tmb/plano-autobuses-barcelona-tmb.jpg"
+    ]},
+    {
+      "id": " Codis Prova 3",
+      "pista": "https://www.gsmspain.com/foros/attach/33/331721.jpg",
+      "estacio": "17 35 12 49 12 32 12 18 12 35 28 26 12",
+      "linia": "61 23 18 37 36 35 1"
+    },
+    {
+      "id": "Solució Prova 3",
+      "solucio": ""
+    },
+    {
+      "id":"Anar Prova 4",
+      "content": "GET /prova4"
+    }
+  ],
+  "prova4": [
+    {
+      "id": " Cita Prova 4",
+      "link_cita_prova4": "https://docs.google.com/document/d/1t2f1ugXIjqPtrwo3rO-BNlS1Hh_2UwqvrJIIXxCxrJY/edit?usp=sharing"
+    },
+    {
+      "id": "paraula_clau",
+      "content": ""
+    },
+    {
+      "id": "terminal",
+      "content": "La contrasenya es: 7_ _ _6_7_ _ _8_4_3_",
+      "pista": "https://m.media-amazon.com/images/I/71ogMftGAHS._AC_SY879_.jpg"
+    },
+    {
+      "id":"Anar Prova 5",
+      "content": "GET /prova5"
+    }
+  ],
+  "prova5": [
+    {
+      "id": " Cita Prova 5",
+      "link_cita_prova5": "https://docs.google.com/document/d/1xqv1LY-xCkK2tF_Ha1AUK7TB6NuOcF-3gwSm3O6Xn3U/edit?usp=sharing"
+    },
+    {
+      "id": "Clave Prova 5",
+      "pista": "https://www.gourmet.cl/wp-content/uploads/2016/09/Ensalada_C%C3%A9sar-web-553x458.jpg",
+      "clave": "Nc Ucitgtc"
+    },
+    {
+      "id": "Solucio Prova 5"
+      
+    },
+    {
+      "id":"Anar Prova 6",
+      "content": "GET /prova6"
+    }
+  ],
+  "prova6": {
+    "link_cita_prova6": "https://docs.google.com/document/d/1W-gsphweJYTO7IlvO2kX0e-Ih7ML4_ltcwMepc9i33c/edit?usp=sharing",
+    "audio": "https://drive.google.com/file/d/1KyLf-M9lSgU1B7DF-KBb8WAB-fI7r_mQ/view?usp=sharing",
+    "primer_cami": "GET /prova6.1",
+    "segon_cami": "GET /prova6.2",
+    "tercer_cami": "GET /prova6.3"
+  },
+  "prova6.1": [
+      {
+      "id": "Cita Prova 6.1",
+      "link": "https://docs.google.com/document/d/1QcBxyn2nuHfmlNZ7pYWTVaVxDyEuDuzigb-ulhs0n9M/edit?usp=sharing"
+      },
+      {
+      "id":"colors",
+      "verde": "100, 255, 0",
+      "naranja": "255, 100, 0",
+      "morado": "216, 0, 255",
+      "rgb_picker": "https://htmlcolorcodes.com/es/selector-de-color/"
+      },
+      {
+      "id": "color_correcte"
+      },
+      {
+        "id":"Anar Prova 7",
+        "content": "GET /prova7"
+      }
+  ],
+  "prova6.2":[
+    {
+      "id": "Cita Prova 6.2",
+      "link": "https://docs.google.com/document/d/1EBGu2-WiLG3iWz8WFMsI2bFP5jPXMLzv96tmCxjckZU/edit?usp=drive_link"
+    },
+    {
+      "porta1": "home",
+      "porta2": "dona ",
+      "porta3": "discapacitat ",
+      "tabla_ascii": "https://aprende.olimpiada-informatica.org/sites/default/files/inline-images/Ascii-codes-table.png"
+    },
+    {
+        "id": "Codis Portes"
+    },
+    {
+      "id":"Anar Prova 7",
+      "content": "GET /prova7"
+    }
+  ],
+  "prova6.3": {
+      "link_cita_prova6.3": "https://docs.google.com/document/d/1kmGcq4BR2OliRKaF1TSuMrLuGXv0vl-kHGmJC07muvE/edit?usp=drive_link",
+      "Anar_Prova_7": "GET /prova7"
+    },
+  "prova7":
+    [   {
+        "id": "cita",
+        "link": "https://docs.google.com/document/d/1w--JkD4sZfq8UbXXVrnOAF0Wl_XK5sYt56EeI6Donv4/edit?usp=sharing"
+        },
+        {
+        "id": "Rates",
+        "Rata_1": "uD83DuDC00j",
+        "Rata_2": "uD73DuDC01",
+        "Rata_3": "uD84DuDC98",
+        "Rata_4": "uD83DuDC12",
+        "Rata_5": "uD84DuDC02",
+        "Rata_6": "uD83DuDC00s",
+        "Rata_7": "uD83DuDC03",
+        "Rata_8": "uD83DuDC69",
+        "Rata_9": "uD83DuDC81",
+        "Rata_10": "uD83DuDC79",
+        "Rata_11": "uD83DuDC43",
+        "Rata_12": "uD83DuDC00",
+        "Rata_13": "uD83DuDC00o",
+        "Rata_14": "uD83DuDC10",
+        "Rata_15": "uD83DuDC66",
+        "Rata_16": "uD83DuDC71",
+        "Rata_17": "uD83DuDC15",
+        "Rata_18": "uD83DuDC44",
+        "Rata_19": "uD83DuDC84",
+        "Rata_20": "uD83DuDC31",
+        "Rata_22": "uD83DuDC21",
+        "Rata_23": "uD83DuDC54",
+        "Rata_24": "uD83DuDC33",
+        "Rata_25": "uD83DuDC24",
+        "Rata_26": "uD83DuDC07",
+        "Rata_27": "uD83DuDC00n",
+        "Rata_28": "uD83DuDC96"
+        },
+        {
+          "id": "Anar_Utima_Prova",
+          "content": "GET /prova8"
+        }
+    ]
+,
+  "prova8": [{
+    "id": "Cita Prova 8",
+    "link_cita_prova8": "https://docs.google.com/document/d/1lznRG-N3bnby4TRLliM_OLfHrxd9XT_kSHIx3AIVIZQ/edit?usp=sharing"
+  },
+  {
+    "id": "Terminal",
+    "linia_terminal": "________________"
+  }
+  ]
+}
