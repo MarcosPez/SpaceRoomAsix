@@ -112,10 +112,11 @@
       "link": "https://docs.google.com/document/d/1QcBxyn2nuHfmlNZ7pYWTVaVxDyEuDuzigb-ulhs0n9M/edit?usp=sharing"
       },
       {
-      "id":"colors",
-      "verde": "100, 255, 0",
-      "naranja": "255, 100, 0",
-      "morado": "216, 0, 255",
+      "id":"portes prova6.1",
+      "pista":"🟢 + 🟠 = ?",
+      "porta1": "100, 255, 0",
+      "porta2": "255, 100, 0",
+      "porta3": "216, 0, 255",
       "rgb_picker": "https://htmlcolorcodes.com/es/selector-de-color/"
       },
       {
@@ -138,7 +139,7 @@
       "tabla_ascii": "https://aprende.olimpiada-informatica.org/sites/default/files/inline-images/Ascii-codes-table.png"
     },
     {
-        "id": "Codis Portes"
+        "id": "Contrasenyes"
     },
     {
       "id":"Anar Prova 7",
